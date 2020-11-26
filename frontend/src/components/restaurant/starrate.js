@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaStar } from 'react-icons/fa'
-import './login.css';
-class Feedback extends React.Component {
+import './rest.css';
+class Starrate extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
@@ -34,4 +34,4 @@ class Feedback extends React.Component {
     }
 }
 
-export default Feedback
+export default Starrate

@@ -5,9 +5,7 @@
     object-position: 50% 50%;
 
 }
-.starbutton{
-    display: none;
-}
+
 .star{
     cursor: pointer;
     transition: 200ms;
